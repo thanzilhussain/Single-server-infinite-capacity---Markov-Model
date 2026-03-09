@@ -49,10 +49,10 @@ if(lam<mu):
 else: 
     print("Warning! Objects overflow will happen in the conveyer") 
 print("----------------------------------------")
+```
 ## Output :
 
 <img width="723" height="251" alt="image" src="https://github.com/user-attachments/assets/d195fff0-f6bf-47b3-b623-326c8057fc53" />
-```
 
 ## Result :
 
