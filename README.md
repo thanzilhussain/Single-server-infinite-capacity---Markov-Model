@@ -52,7 +52,7 @@ print("----------------------------------------")
 ```
 ## Output :
 
-<img width="723" height="251" alt="image" src="https://github.com/user-attachments/assets/d195fff0-f6bf-47b3-b623-326c8057fc53" />
+<img width="859" height="333" alt="image" src="https://github.com/user-attachments/assets/ab9a87c4-f956-4c06-b175-c5819716a7cf" />
 
 ## Result :
 
